@@ -1,1 +1,1 @@
-My first readme. I am feeling ecited right now
+My first readme. I am feeling excited right now
